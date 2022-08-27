@@ -1,0 +1,12 @@
+html
+{
+  
+  font-size: 25px; /*Makes the font size a little larger*/
+}
+body
+{
+    /*Changed background color as well as font color*/
+    background-color: rgb(66, 62, 62);
+    color: whitesmoke;
+    font-family: Helvetica, Arial;
+}
